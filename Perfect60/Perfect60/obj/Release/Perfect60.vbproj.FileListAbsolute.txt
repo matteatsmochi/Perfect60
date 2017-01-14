@@ -1,0 +1,12 @@
+C:\Users\Cecil\Documents\Visual Studio 2015\Projects\Perfect60\Perfect60\bin\Release\Perfect60.exe.config
+C:\Users\Cecil\Documents\Visual Studio 2015\Projects\Perfect60\Perfect60\bin\Release\Perfect60.exe
+C:\Users\Cecil\Documents\Visual Studio 2015\Projects\Perfect60\Perfect60\bin\Release\Perfect60.pdb
+C:\Users\Cecil\Documents\Visual Studio 2015\Projects\Perfect60\Perfect60\bin\Release\Perfect60.xml
+C:\Users\Cecil\Documents\Visual Studio 2015\Projects\Perfect60\Perfect60\obj\Release\Perfect60.vbprojResolveAssemblyReference.cache
+C:\Users\Cecil\Documents\Visual Studio 2015\Projects\Perfect60\Perfect60\obj\Release\Perfect60.frmOnScreen.resources
+C:\Users\Cecil\Documents\Visual Studio 2015\Projects\Perfect60\Perfect60\obj\Release\Perfect60.frmPerf60.resources
+C:\Users\Cecil\Documents\Visual Studio 2015\Projects\Perfect60\Perfect60\obj\Release\Perfect60.Resources.resources
+C:\Users\Cecil\Documents\Visual Studio 2015\Projects\Perfect60\Perfect60\obj\Release\Perfect60.vbproj.GenerateResource.Cache
+C:\Users\Cecil\Documents\Visual Studio 2015\Projects\Perfect60\Perfect60\obj\Release\Perfect60.exe
+C:\Users\Cecil\Documents\Visual Studio 2015\Projects\Perfect60\Perfect60\obj\Release\Perfect60.xml
+C:\Users\Cecil\Documents\Visual Studio 2015\Projects\Perfect60\Perfect60\obj\Release\Perfect60.pdb
